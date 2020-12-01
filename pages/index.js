@@ -4,7 +4,7 @@ function Home() {
     return (
         <div>
             <h1>HOT-CHICKEN</h1>
-            <h3>HOT-CHICKEN</h3>
+            <p>Whatsapp: <a href="facebook.com.br"><code>Whatsapp</code></a></p>
         </div>
     )  
 }

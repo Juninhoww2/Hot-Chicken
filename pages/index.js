@@ -4,23 +4,9 @@ function Home() {
     return (
         <div>
             <h1>HOT-CHICKEN</h1>
-            <Contador />
+            <h3>HOT-CHICKEN</h3>
         </div>
     )  
-}
-
-function Contador() {
-    const [contador,setContador] = useState(1);
-
-    function adicionarContador() {
-        setContador(contador + 1);
-    }
-    return (
-        <div>
-            <div>{contador}</div>
-            <button onClick={adicionarContador}>add</button>
-        </div>
-    )
 }
 
 export default Home 

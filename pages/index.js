@@ -29,7 +29,13 @@ function Home() {
 function HomePage() {
     return (
         <div>
-            <p1>Youtube: <a href="https://www.youtube.com/channel/UCCgVZ4daJreAXlZnit_cnxA"><code>Clique aqui</code></a></p>
+            <p>Youtube: <a href="https://www.youtube.com/channel/UCCgVZ4daJreAXlZnit_cnxA"><code>Clique aqui</code></a></p>
+
+            <style jsx>{`
+                p {
+                    color: black;
+                }
+            `}</style>
         </div>
     )
 }

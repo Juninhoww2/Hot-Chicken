@@ -11,12 +11,17 @@ webpackHotUpdate_N_E("pages/fotos",{
 __webpack_require__.r(__webpack_exports__);
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! styled-jsx/style */ "./node_modules/styled-jsx/style.js");
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_1__);
 
 var _jsxFileName = "C:\\Users\\Junio\\Documents\\Hot-Chicken\\pages\\fotos.js";
 
+
 function Fotos() {
   return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
+    className: "jsx-3691925800",
     children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("h1", {
+      className: "jsx-3691925800",
       children: "Fotos"
     }, void 0, false, {
       fileName: _jsxFileName,
@@ -24,18 +29,16 @@ function Fotos() {
       columnNumber: 13
     }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("a", {
       href: "/",
+      className: "jsx-3691925800",
       children: "Home"
     }, void 0, false, {
       fileName: _jsxFileName,
       lineNumber: 4,
       columnNumber: 13
-    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("img", {
-      src: "/public/vot.jpg"
-    }, void 0, false, {
-      fileName: _jsxFileName,
-      lineNumber: 5,
-      columnNumber: 13
-    }, this)]
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(styled_jsx_style__WEBPACK_IMPORTED_MODULE_1___default.a, {
+      id: "3691925800",
+      children: "h1.jsx-3691925800{color:red;margin:auto;width:20%;padding:10px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcSnVuaW9cXERvY3VtZW50c1xcSG90LUNoaWNrZW5cXHBhZ2VzXFxmb3Rvcy5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFJd0IsQUFHMkIsVUFDRSxZQUNGLFVBQ0csYUFDakIiLCJmaWxlIjoiQzpcXFVzZXJzXFxKdW5pb1xcRG9jdW1lbnRzXFxIb3QtQ2hpY2tlblxccGFnZXNcXGZvdG9zLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZnVuY3Rpb24gRm90b3MoKSB7XHJcbiAgICByZXR1cm4gKDxkaXY+XHJcbiAgICAgICAgICAgIDxoMT5Gb3RvczwvaDE+XHJcbiAgICAgICAgICAgIDxhIGhyZWY9XCIvXCI+SG9tZTwvYT5cclxuICAgICAgICAgICAgPHN0eWxlIGpzeD57YFxyXG4gICAgICAgICAgICBoMSB7XHJcbiAgICAgICAgICAgICAgICBjb2xvcjogcmVkO1xyXG4gICAgICAgICAgICAgICAgbWFyZ2luOiBhdXRvO1xyXG4gICAgICAgICAgICAgICAgd2lkdGg6IDIwJTtcclxuICAgICAgICAgICAgICAgIHBhZGRpbmc6IDEwcHg7XHJcbiAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgXHJcblxyXG5cclxuICAgICAgICAgICAgYH08L3N0eWxlPlxyXG4gICAgICAgIDwvZGl2PilcclxufVxyXG5cclxuZXhwb3J0IGRlZmF1bHQgRm90b3MgIl19 */\n/*@ sourceURL=C:\\\\Users\\\\Junio\\\\Documents\\\\Hot-Chicken\\\\pages\\\\fotos.js */"
+    }, void 0, false, void 0, this)]
   }, void 0, true, {
     fileName: _jsxFileName,
     lineNumber: 2,
@@ -110,4 +113,4 @@ $RefreshReg$(_c, "Fotos");
 /***/ })
 
 })
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vcGFnZXMvZm90b3MuanMiXSwibmFtZXMiOlsiRm90b3MiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7Ozs7QUFBQSxTQUFTQSxLQUFULEdBQWlCO0FBQ2Isc0JBQVE7QUFBQSw0QkFDQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxZQURBLGVBRUE7QUFBRyxVQUFJLEVBQUMsR0FBUjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxZQUZBLGVBR0E7QUFBSyxTQUFHLEVBQUM7QUFBVDtBQUFBO0FBQUE7QUFBQTtBQUFBLFlBSEE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLFVBQVI7QUFLSDs7S0FOUUEsSztBQVFNQSxvRUFBZiIsImZpbGUiOiJzdGF0aWMvd2VicGFjay9wYWdlcy9mb3Rvcy4wMTc5ZjUyZTBjNzgwZDMzYzBjZi5ob3QtdXBkYXRlLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZnVuY3Rpb24gRm90b3MoKSB7XHJcbiAgICByZXR1cm4gKDxkaXY+XHJcbiAgICAgICAgICAgIDxoMT5Gb3RvczwvaDE+XHJcbiAgICAgICAgICAgIDxhIGhyZWY9XCIvXCI+SG9tZTwvYT5cclxuICAgICAgICAgICAgPGltZyBzcmM9XCIvcHVibGljL3ZvdC5qcGdcIj48L2ltZz5cclxuICAgICAgICA8L2Rpdj4pXHJcbn1cclxuXHJcbmV4cG9ydCBkZWZhdWx0IEZvdG9zICJdLCJzb3VyY2VSb290IjoiIn0=
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vcGFnZXMvZm90b3MuanMiXSwibmFtZXMiOlsiRm90b3MiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFBQSxTQUFTQSxLQUFULEdBQWlCO0FBQ2Isc0JBQVE7QUFBQTtBQUFBLDRCQUNBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsWUFEQSxlQUVBO0FBQUcsVUFBSSxFQUFDLEdBQVI7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxZQUZBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxVQUFSO0FBZUg7O0tBaEJRQSxLO0FBa0JNQSxvRUFBZiIsImZpbGUiOiJzdGF0aWMvd2VicGFjay9wYWdlcy9mb3Rvcy44N2YzNDExNjlkMWNiYjhlZjk1Zi5ob3QtdXBkYXRlLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZnVuY3Rpb24gRm90b3MoKSB7XHJcbiAgICByZXR1cm4gKDxkaXY+XHJcbiAgICAgICAgICAgIDxoMT5Gb3RvczwvaDE+XHJcbiAgICAgICAgICAgIDxhIGhyZWY9XCIvXCI+SG9tZTwvYT5cclxuICAgICAgICAgICAgPHN0eWxlIGpzeD57YFxyXG4gICAgICAgICAgICBoMSB7XHJcbiAgICAgICAgICAgICAgICBjb2xvcjogcmVkO1xyXG4gICAgICAgICAgICAgICAgbWFyZ2luOiBhdXRvO1xyXG4gICAgICAgICAgICAgICAgd2lkdGg6IDIwJTtcclxuICAgICAgICAgICAgICAgIHBhZGRpbmc6IDEwcHg7XHJcbiAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgXHJcblxyXG5cclxuICAgICAgICAgICAgYH08L3N0eWxlPlxyXG4gICAgICAgIDwvZGl2PilcclxufVxyXG5cclxuZXhwb3J0IGRlZmF1bHQgRm90b3MgIl0sInNvdXJjZVJvb3QiOiIifQ==

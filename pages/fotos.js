@@ -1,12 +1,16 @@
-import votImage from './assets/vot.jpg'
-
 function Fotos() {
     return (<div>
             <h1>Fotos</h1>
             <a href="/">Home</a>
-            <header>
-                <img src={votImage} alt='vot' id='votImage' />
-            </header>
+            <style jsx>{`
+            h1 {
+                color: red;
+                margin: auto;
+                width: 20%;
+                padding: 10px;
+            }
+            
+            `}</style>
         </div>)
 }
 

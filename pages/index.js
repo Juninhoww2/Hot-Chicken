@@ -14,7 +14,7 @@ function Home() {
                 p {
                     color: black;
                 }
-                div: background: grey; {
+                div: background-color: grey; {
                 }
                 `} </style>
         </div>

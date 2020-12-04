@@ -14,7 +14,7 @@ function Home() {
                     color: black;
                 }
                 div {
-                    background: grey; 
+                    background: white; 
                 }
                 `}</style>
             <style global jsx>{`

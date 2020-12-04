@@ -14,9 +14,10 @@ function Home() {
                 p {
                     color: black;
                 }
-                div: background-color: grey; {
+                div {
+                    background: grey; 
                 }
-                `} </style>
+                `}</style>
         </div>
 
     )  

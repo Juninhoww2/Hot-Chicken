@@ -1,4 +1,4 @@
-import votImage from './assets/vot.jpg';
+import votImage from './assets/vot.jpg'
 
 function Fotos() {
     return (<div>

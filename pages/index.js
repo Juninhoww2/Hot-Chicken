@@ -1,16 +1,18 @@
-import Image from 'next/image'
+import Link from 'next/link'
+import Image from 'next/image
 
 function Home() {
     return (
         <div>
+        <>
             <h1>HOT-CHICKEN</h1>
             <p>Entre no grupo Hot-Chicken do ZapZap: <a href="https://chat.whatsapp.com/EXvql86tiWW5Ja9B6NAtig"><code>Hot-Chicken</code></a></p>
             <p>Youtube: <a href="https://www.youtube.com/channel/UCCgVZ4daJreAXlZnit_cnxA"><code>Clique aqui</code></a></p>
             <image 
-                src="./public/hot.jpg"
+                src="../public/hot.jpg" >
                 width={500}
                 height={500}
-            />
+            ></image>
             <style jsx>{`
                 h1 {
                     color: red;
@@ -19,7 +21,7 @@ function Home() {
                     color: black;
                 }
                 div {
-                    background: white; 
+                    background: pink; 
                 }
                 `}</style>
             <style global jsx>{`
@@ -27,10 +29,9 @@ function Home() {
                     background: pink;
                 }
             `}</style>
+        </>
         </div>
     )  
 }
-
-
 
 export default Home 

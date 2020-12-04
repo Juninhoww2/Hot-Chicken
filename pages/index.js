@@ -18,8 +18,12 @@ function Home() {
                     background: grey; 
                 }
                 `}</style>
+            <style global jsx>{`
+                body {
+                    background: rose;
+                }
+            `}</style>
         </div>
-
     )  
 }
 

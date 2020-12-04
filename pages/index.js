@@ -20,7 +20,7 @@ function Home() {
                 `}</style>
             <style global jsx>{`
                 body {
-                    background: rose;
+                    background: pink;
                 }
             `}</style>
         </div>

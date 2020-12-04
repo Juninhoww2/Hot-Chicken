@@ -1,7 +1,10 @@
+import votImage from './assets/vot.jpg'
+
 function Fotos() {
     return (<div>
             <h1>Fotos</h1>
-            <a href="/">acessar página Home</a>
+            <a href="/">Home</a>
+            <img src={votImage} alt="" />
         </div>)
 }
 

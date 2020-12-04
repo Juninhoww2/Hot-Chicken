@@ -1,4 +1,4 @@
-
+import Image from 'next/image'
 
 function Home() {
     return (
@@ -6,6 +6,11 @@ function Home() {
             <h1>HOT-CHICKEN</h1>
             <p>Entre no grupo Hot-Chicken do ZapZap: <a href="https://chat.whatsapp.com/EXvql86tiWW5Ja9B6NAtig"><code>Hot-Chicken</code></a></p>
             <p>Youtube: <a href="https://www.youtube.com/channel/UCCgVZ4daJreAXlZnit_cnxA"><code>Clique aqui</code></a></p>
+            <image 
+                src="./public/hot.jpg"
+                width={500}
+                height={500}
+            />
             <style jsx>{`
                 h1 {
                     color: red;
